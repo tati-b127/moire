@@ -1,4 +1,6 @@
-# vue-3
+# Project "Shop MOIRE" (vue-3)
+
+## https://tati-b127.github.io/moire
 
 ## Project setup
 ```
@@ -20,5 +22,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
